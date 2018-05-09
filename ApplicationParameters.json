@@ -1,0 +1,5 @@
+{
+  "ImageCaptureTimer": "15",
+  "KnownPersonConfidence": "0.4",
+  "KnownPersonNewFaceConfidence": "0.6"
+}
