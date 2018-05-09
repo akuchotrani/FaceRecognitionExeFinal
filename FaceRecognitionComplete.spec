@@ -10,7 +10,7 @@ face_models = [
 ]
 
 a = Analysis(['FaceRecognitionComplete.py'],
-             pathex=['C:\\Users\\aakash.chotrani\\Desktop\\CreatingExe'],
+             pathex=['C:\\Users\\aakash.chotrani\\Desktop\\FaceRecognitionExeFinal'],
              binaries=face_models,
              datas=[],
              hiddenimports=['scipy._lib.messagestream', 'scipy', 'scipy.signal', 'scipy.signal.bsplines', 'scipy.special', 'scipy.special._ufuncs_cxx',
